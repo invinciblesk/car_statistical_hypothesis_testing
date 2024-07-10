@@ -1,6 +1,6 @@
 # car_statistical_hypothesis_testing
 
-## Modified Questions and Hypotheses
+## Questions and Hypotheses
 
 ### Comparison of Vehicle Types:
 
