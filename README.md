@@ -58,22 +58,26 @@ Reject the `null hypothesis` - Vehicles from Japan are significantly more fuel-e
 
 Reject the `null hypothesis` ($H_0$) for each comparison.
 
-## Future work
+# Future work
 
 ### Country of Origin Analysis
 
 - **Question:** How do vehicles from different countries of origin compare in terms of displacement and acceleration?
-  - **Null Hypothesis $(H_0)$:** There is no significant difference in displacement and acceleration among vehicles from different countries of origin.
-  - **Alternate Hypothesis $(H_1)$:** There are significant differences in displacement and acceleration among vehicles from different countries of origin.
+
 
 ### Weight Differences by Origin
 
-- **Question:** How does the weight of vehicles differ by origin?
-  - **Null Hypothesis $(H_0)$:** There is no significant difference in the weight of vehicles by origin.
-  - **Alternate Hypothesis $(H_1)$:** There is a significant difference in the weight of vehicles by origin.
 
 ### Model Year and MPG
 
 - **Question:** How does the mpg of vehicles vary across different model years?
-  - **Null Hypothesis $(H_0)$:** There is no significant variation in mpg across different model years.
-  - **Alternate Hypothesis $(H_1)$:** There is significant variation in mpg across different model years.
+
+
+
+# Collaborators
+<div align="center">
+- Andrew Tolson<br>
+- Simon Kanyiva<br>
+- David Scott<br>
+- Joel Encarnacion
+</div>
